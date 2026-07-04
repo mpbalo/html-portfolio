@@ -3,7 +3,7 @@
 
 Project: HTML Portfolio Website  
 Type: Personal Web Developer Portfolio  
-View Project: https://mpbalo-webdev.github.io/html-portfolio/
+View Project: https://mpbalo.github.io/html-portfolio/
 
 Description:  
 Personal web developer portfolio built with HTML, showcasing beginner-friendly projects, clean structure, responsive layouts, and SEO-friendly markup.
